@@ -170,7 +170,7 @@ sections:
 #     title: Popular Topics
 #   design:
 #     columns: "2"
-- block: contact
+- block: Contact
   content:
     address:
       city: Baltimore
@@ -209,7 +209,7 @@ sections:
     design:
      columns: "2"
      id: contact
+     title: Contact
    # subtitle: null
-#title: null
 type: landing
 ---
