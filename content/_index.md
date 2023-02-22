@@ -179,37 +179,13 @@ sections:
       postcode: "21202"
       region: MD
       street: 550 N. Broadway
-    # appointment_url: https://calendly.com
-    # autolink: true
     contact_links:
-    # - icon: twitter
-    #   icon_pack: fab
-    #   link: https://twitter.com/Twitter
-    #   name: DM Me
-    # - icon: skype
-    #   icon_pack: fab
-    #   link: skype:echo123?call
-    #   name: Skype Me
-    # - icon: video
-    #   icon_pack: fas
-    #   link: https://zoom.com
-    #   name: Zoom Me
-    # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     email: hqi11@jhmi.edu
-    # form:
-    #   formspree:
-    #     id: null
-    #   netlify:
-    #     captcha: false
-    #   provider: netlify
-    # office_hours:
-    # - Monday 10:00 to 13:00
-    # - Wednesday 09:00 to 10:00
     phone: 888 888 88 88
-    design:
-     columns: "2"
-     id: contact
-     title: contact
-     subtitle: null
+  design:
+    columns: "2"
+    id: contact
+    title: contact
+    subtitle: null
 type: landing
 ---
