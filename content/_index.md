@@ -209,7 +209,7 @@ sections:
     design:
      columns: "2"
      id: contact
-     title: Contact
-   # subtitle: null
+     title: contact
+     subtitle: null
 type: landing
 ---
