@@ -180,7 +180,7 @@ sections:
       region: MD
       street: 550 N. Broadway
     # appointment_url: https://calendly.com
-    # autolink: true
+      autolink: true
     contact_links:
     # - icon: twitter
     #   icon_pack: fab
