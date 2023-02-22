@@ -180,7 +180,7 @@ sections:
       region: MD
       street: 550 N. Broadway
     # appointment_url: https://calendly.com
-      autolink: true
+    #  autolink: true
     contact_links:
     # - icon: twitter
     #   icon_pack: fab
@@ -206,13 +206,11 @@ sections:
     # - Monday 10:00 to 13:00
     # - Wednesday 09:00 to 10:00
     phone: 888 888 88 88
-    subtitle: null
-    # text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-    #   ut magna et, vehicula efficitur enim.
-     title: Contact
-   design:
-     columns: "2"
-   id: contact
+   # subtitle: null
+ #  title: Contact
+#   design:
+ #    columns: "2"
+  # id: contact
 title: null
 type: landing
 ---
