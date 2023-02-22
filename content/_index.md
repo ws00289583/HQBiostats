@@ -123,6 +123,16 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
+- block: collection
+  content:
+    filters:
+      folders:
+      - event
+    title: Recent & Upcoming Talks
+  design:
+    columns: "2"
+    view: compact
+  id: talks
 - block: markdown
   content:
     subtitle: ""
@@ -155,16 +165,6 @@ sections:
   design:
     columns: "2"
     view: citation
-- block: collection
-  content:
-    filters:
-      folders:
-      - event
-    title: Recent & Upcoming Talks
-  design:
-    columns: "2"
-    view: compact
-  id: talks
 # - block: tag_cloud
 #   content:
 #     title: Popular Topics
@@ -210,8 +210,6 @@ sections:
      columns: "2"
      id: contact
    # subtitle: null
- #  title: Contact
-   
-title: null
+#title: null
 type: landing
 ---
