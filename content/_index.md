@@ -184,8 +184,6 @@ sections:
     phone: 888 888 88 88
   design:
     columns: "2"
-    id: contact
-    title: contact
-    subtitle: null
+  id: contact
 type: landing
 ---
