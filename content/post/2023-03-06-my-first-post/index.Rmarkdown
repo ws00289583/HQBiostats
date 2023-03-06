@@ -3,18 +3,18 @@ title: My first post - Probably talking about KM plot
 author: 'HQ'
 date: '2023-03-06'
 slug: my-first-post
-categories: [Figure]
-tags: [KM Plot]
+categories: ["Figure"]
+tags: ["KM Plot"]
 subtitle: ''
 summary: ''
-authors: [HQ]
+authors: ["HQ"]
 lastmod: '2023-03-06T14:52:19-05:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: [Coding]
+projects: ["Coding"]
 ---
 
 
